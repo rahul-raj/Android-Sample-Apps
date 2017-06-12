@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_value">Button</string>
+    <string name="button">Submit</string>
+    <string name="textView"></string>
+    <string name="sendButton">Send Message!</string>
+    <string name="receivedMessage" />
+    <string-array name="spinnerValues">
+        <item>Vegetables</item>
+        <item>Non-Veg</item>
+        <item>Fruits</item>
+    </string-array>
+    <string name="chooser">Send Message:..........</string>
+    <string name="mailSubject">Hello There!!</string>
+    <string name="stopWatchValue" />
+    <string name="startButton">Start</string>
+    <string name="stopButton">Stop</string>
+    <string name="resetButton">Reset</string>
+</resources>
