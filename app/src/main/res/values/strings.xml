@@ -19,8 +19,8 @@
     <string name="lifecycleText" />
     <string name="test">Please switch on/off</string>
     <string name="input_string">Enter Your Message</string>
-    <string name="username">f7999644-22c8-44ab-88ac-d82778626e7a</string>
-    <string name="password">MIVu24wvgCy2</string>
+    <string name="username">{Your IBM Watson credentials}</string>
+    <string name="password">{Your IBM Watson credentials}</string>
     <string name="sentString">I need to eat more</string>
     <string name="record">Record Audio</string>
 </resources>
